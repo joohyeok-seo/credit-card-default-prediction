@@ -58,6 +58,14 @@ The dataset contains information about credit card customers, including:
 
 ---
 
+## Tools and Libraries
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+  
+---
+
 ## **Results**
 
 - **Key Metrics**:
